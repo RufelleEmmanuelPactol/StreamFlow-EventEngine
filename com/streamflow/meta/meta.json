@@ -1,0 +1,6 @@
+{
+  "port": 8890,
+  "threadCount": 10,
+  "relationalConnectionURL" : "jdbc:sqlite:src/main/java/com/streamflow/io/StreamFlowEngineContexts.db",
+  "logDataStoragePath" : "src/main/java/com/streamflow/io/StreamFlowEngineContexts.log"
+}
